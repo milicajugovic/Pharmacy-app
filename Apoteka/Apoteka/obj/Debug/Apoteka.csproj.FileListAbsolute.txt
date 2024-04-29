@@ -1,0 +1,105 @@
+C:\Users\Milica\Skola\Objekno orijentisano programiranje\Apoteka\Apoteka\bin\Debug\Apoteka.exe.config
+C:\Users\Milica\Skola\Objekno orijentisano programiranje\Apoteka\Apoteka\bin\Debug\Apoteka.exe
+C:\Users\Milica\Skola\Objekno orijentisano programiranje\Apoteka\Apoteka\bin\Debug\Apoteka.pdb
+C:\Users\Milica\Skola\Objekno orijentisano programiranje\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.AssemblyReference.cache
+C:\Users\Milica\Skola\Objekno orijentisano programiranje\Apoteka\Apoteka\obj\Debug\Apoteka.Apoteka.resources
+C:\Users\Milica\Skola\Objekno orijentisano programiranje\Apoteka\Apoteka\obj\Debug\Apoteka.DodajNoviLek.resources
+C:\Users\Milica\Skola\Objekno orijentisano programiranje\Apoteka\Apoteka\obj\Debug\Apoteka.IzmeniInventar.resources
+C:\Users\Milica\Skola\Objekno orijentisano programiranje\Apoteka\Apoteka\obj\Debug\Apoteka.PovecajZalihe.resources
+C:\Users\Milica\Skola\Objekno orijentisano programiranje\Apoteka\Apoteka\obj\Debug\Apoteka.PromeniŠifru.resources
+C:\Users\Milica\Skola\Objekno orijentisano programiranje\Apoteka\Apoteka\obj\Debug\Apoteka.Properties.Resources.resources
+C:\Users\Milica\Skola\Objekno orijentisano programiranje\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.GenerateResource.cache
+C:\Users\Milica\Skola\Objekno orijentisano programiranje\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Skola\Objekno orijentisano programiranje\Apoteka\Apoteka\obj\Debug\Apoteka.exe
+C:\Users\Milica\Skola\Objekno orijentisano programiranje\Apoteka\Apoteka\obj\Debug\Apoteka.pdb
+C:\Users\ucenik\Downloads\Apoteka (2)\Apoteka\Apoteka\bin\Debug\Apoteka.exe.config
+C:\Users\ucenik\Downloads\Apoteka (2)\Apoteka\Apoteka\bin\Debug\Apoteka.exe
+C:\Users\ucenik\Downloads\Apoteka (2)\Apoteka\Apoteka\bin\Debug\Apoteka.pdb
+C:\Users\ucenik\Downloads\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.AssemblyReference.cache
+C:\Users\ucenik\Downloads\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Downloads\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.Apoteka.resources
+C:\Users\ucenik\Downloads\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.DodajNoviLek.resources
+C:\Users\ucenik\Downloads\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.IzmeniInventar.resources
+C:\Users\ucenik\Downloads\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.PovecajZalihe.resources
+C:\Users\ucenik\Downloads\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.PromeniSifru.resources
+C:\Users\ucenik\Downloads\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.Properties.Resources.resources
+C:\Users\ucenik\Downloads\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.GenerateResource.cache
+C:\Users\ucenik\Downloads\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Downloads\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.exe
+C:\Users\ucenik\Downloads\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.pdb
+C:\Users\Milica\Downloads\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\bin\Debug\Apoteka.exe.config
+C:\Users\Milica\Downloads\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\bin\Debug\Apoteka.exe
+C:\Users\Milica\Downloads\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\bin\Debug\Apoteka.pdb
+C:\Users\Milica\Downloads\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.AssemblyReference.cache
+C:\Users\Milica\Downloads\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.Apoteka.resources
+C:\Users\Milica\Downloads\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.DodajNoviLek.resources
+C:\Users\Milica\Downloads\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.Form2.resources
+C:\Users\Milica\Downloads\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.IzmeniInventar.resources
+C:\Users\Milica\Downloads\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.PovecajZalihe.resources
+C:\Users\Milica\Downloads\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.PromeniSifru.resources
+C:\Users\Milica\Downloads\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.Properties.Resources.resources
+C:\Users\Milica\Downloads\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.GenerateResource.cache
+C:\Users\Milica\Downloads\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Downloads\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.exe
+C:\Users\Milica\Downloads\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.pdb
+C:\Users\ucenik\Documents\milicajug\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\milicajug\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\milicajug\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.Apoteka.resources
+C:\Users\ucenik\Documents\milicajug\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.DodajNoviLek.resources
+C:\Users\ucenik\Documents\milicajug\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.Form2.resources
+C:\Users\ucenik\Documents\milicajug\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.IzmeniInventar.resources
+C:\Users\ucenik\Documents\milicajug\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.PovecajZalihe.resources
+C:\Users\ucenik\Documents\milicajug\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.PromeniSifru.resources
+C:\Users\ucenik\Documents\milicajug\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.Properties.Resources.resources
+C:\Users\ucenik\Documents\milicajug\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\milicajug\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\milicajug\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.exe
+C:\Users\ucenik\Documents\milicajug\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.pdb
+C:\Users\ucenik\Documents\milicajug\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\bin\Debug\Apoteka.exe.config
+C:\Users\ucenik\Documents\milicajug\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\bin\Debug\Apoteka.exe
+C:\Users\ucenik\Documents\milicajug\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\bin\Debug\Apoteka.pdb
+C:\Users\Milica\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.AssemblyReference.cache
+C:\Users\Milica\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.Apoteka.resources
+C:\Users\Milica\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.DodajNoviLek.resources
+C:\Users\Milica\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.Form2.resources
+C:\Users\Milica\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.IzmeniInventar.resources
+C:\Users\Milica\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.PovecajZalihe.resources
+C:\Users\Milica\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.PromeniSifru.resources
+C:\Users\Milica\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.Properties.Resources.resources
+C:\Users\Milica\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.GenerateResource.cache
+C:\Users\Milica\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.exe
+C:\Users\Milica\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.pdb
+C:\Users\Milica\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\bin\Debug\Apoteka.exe.config
+C:\Users\Milica\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\bin\Debug\Apoteka.exe
+C:\Users\Milica\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\bin\Debug\Apoteka.pdb
+C:\Users\Milica\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.Racun.resources
+C:\Users\ucenik\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\bin\Debug\Apoteka.exe.config
+C:\Users\ucenik\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\bin\Debug\Apoteka.exe
+C:\Users\ucenik\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\bin\Debug\Apoteka.pdb
+C:\Users\ucenik\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.AssemblyReference.cache
+C:\Users\ucenik\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.Apoteka.resources
+C:\Users\ucenik\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.DodajNoviLek.resources
+C:\Users\ucenik\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.IzmeniInventar.resources
+C:\Users\ucenik\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.PovecajZalihe.resources
+C:\Users\ucenik\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.PromeniSifru.resources
+C:\Users\ucenik\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.Properties.Resources.resources
+C:\Users\ucenik\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.Racun.resources
+C:\Users\ucenik\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.GenerateResource.cache
+C:\Users\ucenik\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.exe
+C:\Users\ucenik\Downloads\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.pdb
+C:\Users\Milica\Downloads\projekat (1)\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\bin\Debug\Apoteka.exe.config
+C:\Users\Milica\Downloads\projekat (1)\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\bin\Debug\Apoteka.exe
+C:\Users\Milica\Downloads\projekat (1)\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\bin\Debug\Apoteka.pdb
+C:\Users\Milica\Downloads\projekat (1)\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.AssemblyReference.cache
+C:\Users\Milica\Downloads\projekat (1)\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.Apoteka.resources
+C:\Users\Milica\Downloads\projekat (1)\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.DodajNoviLek.resources
+C:\Users\Milica\Downloads\projekat (1)\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.IzmeniInventar.resources
+C:\Users\Milica\Downloads\projekat (1)\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.PovecajZalihe.resources
+C:\Users\Milica\Downloads\projekat (1)\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.Properties.Resources.resources
+C:\Users\Milica\Downloads\projekat (1)\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.GenerateResource.cache
+C:\Users\Milica\Downloads\projekat (1)\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Downloads\projekat (1)\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.exe
+C:\Users\Milica\Downloads\projekat (1)\projekat\projekat\Apoteka (2)\Apoteka (2)\Apoteka\Apoteka\obj\Debug\Apoteka.pdb
